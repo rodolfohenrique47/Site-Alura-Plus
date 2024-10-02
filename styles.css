@@ -7,6 +7,7 @@
     --cor-de-fundo: #00030C;
     --fonte-principal: 'inter';
     --cor-botao-efeito-azul: #79b2f7;
+    --cor-botao-visitado: red;
 }
 
 /* Fim variaveis css */
@@ -187,6 +188,9 @@ body {
     color: var(--cor-de-fundo);
 }
 
+.container__botao:visited {
+    background-color: var(--cor-botao-visitado);
+}
 
 /* fim pseudocodigo */
 
