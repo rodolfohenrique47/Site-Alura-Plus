@@ -201,6 +201,12 @@ body {
     .container {
         display: block;
         background-image: none;
+        margin-bottom: 0;
+        
+    }
+
+    .principal {
+        height: 100vw;
         
     }
 
@@ -211,17 +217,28 @@ body {
     .container__caixa {
         
         margin: 2em 2em;
+        
     }
 
     .secundaria {
 
        margin: 2em;
        text-align: center;
+       margin-top: 0;
+       height: 100vw;
     }
+
+    .descricao__texto {
+        margin-bottom: 2em;
+    }
+
+
 
     .secundario__imagem {
         width: 50vw;
     }
+
+    
 
     .dispositivos__lista {
         display: block;
@@ -233,6 +250,10 @@ body {
 
     .rodape__lista {
         display: block;
+    }
+
+    .container_secundaria_responsiva {
+        height: 70vw;
     }
 
 
