@@ -187,6 +187,7 @@ body {
 .container__botao:hover {
     background-color: var(--cor-botao-efeito-azul);
     color: var(--cor-de-fundo);
+    font-weight: 600;
 }
 
 .container__botao:visited {
