@@ -256,6 +256,9 @@ body {
         height: 70vw;
     }
 
+    .lista__link {
+        margin-bottom: 1em;
+    }
 
 }
 
