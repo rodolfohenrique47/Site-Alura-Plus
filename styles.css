@@ -190,9 +190,14 @@ body {
 
 /* fim pseudocodigo */
 
+
+
+
+
 /* começando com responsividade */
 
 @media screen and (max-width: 768px) {
+
     .container {
         display: block;
         background-image: none;
@@ -204,8 +209,32 @@ body {
     }
 
     .container__caixa {
+        
         margin: 2em 2em;
     }
+
+    .secundaria {
+
+       margin: 2em;
+       text-align: center;
+    }
+
+    .secundario__imagem {
+        width: 50vw;
+    }
+
+    .dispositivos__lista {
+        display: block;
+    }
+
+    .rodape {
+        display: block;
+    }
+
+    .rodape__lista {
+        display: block;
+    }
+
 
 }
 
