@@ -189,7 +189,8 @@ body {
 }
 
 .container__botao:visited {
-    color: var(--cor-botao-visitado);
+    color: yellow;
+    font-weight: 500;
     
 }
 
