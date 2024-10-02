@@ -177,6 +177,7 @@ body {
 
 .lista__link a:hover {
     color: yellow;
+    font-weight: 500;
 }
 
 .lista__link a:active {
