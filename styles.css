@@ -176,7 +176,11 @@ body {
 /* inicio pseudocodigo */
 
 .lista__link a:hover {
-    color: var(--botao-azul);
+    color: yellow;
+}
+
+.lista__link a:visited {
+    color: blue;
 }
 
 .lista__link a:active {
