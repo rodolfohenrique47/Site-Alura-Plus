@@ -189,7 +189,8 @@ body {
 }
 
 .container__botao:visited {
-    background-color: var(--cor-botao-visitado);
+    color: var(--cor-botao-visitado);
+    
 }
 
 /* fim pseudocodigo */
