@@ -6,4 +6,4 @@
   <li>CSS</li>
 </ul>
 <p>Utilizei o VSCODE para ambiente de Desenvolvimento</p>
-<a href="www.alura-plus-sable-phi.vercel.app" target="_blank">Clique para visitar!</a>
+<a href="https://alura-plus-sable-phi.vercel.app/" target="_blank">Clique para visitar!</a>
